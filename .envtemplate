@@ -1,0 +1,5 @@
+# To get your CANVAS auth token follow https://canvas.instructure.com/doc/api/file.oauth.html#manual-token-generation.
+# Stop at the header "Oauth2 Flow"
+CANVAS_AUTH_TOKEN=TOKEN
+# Get this token from Erik by text or email. If you git commit this you owe Erik $5.
+OPENAPI_AUTH_TOKEN=TOKEN
